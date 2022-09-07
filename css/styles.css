@@ -1,1 +1,87 @@
 /* Add custom css styles here */
+
+.white{
+    color: white;
+}
+
+.Cookie-Title{
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    font-weight: 80;
+    text-align: center;
+    background-image: url("/images/coffee-biscuits.jpg");
+}
+
+.Cookie{
+    top: 100px;
+    border-radius: 25px;
+    padding: 40px;
+    position: relative;
+    margin: 0 auto;
+    height: 200px;
+    width: 650px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.612);
+}​
+
+.our-Cookies{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.check-Cookies{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+.cookieCenter h2{
+    font-weight: 1000;
+}
+
+.img-cookies{
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.About_Us {
+    text-align: center;
+    padding-top: 50px;
+    height:300px;
+    margin-bottom: -50px;
+    background-color: #f2f2f2;
+}
+
+#img-About-Us{
+    height: 150px;
+    width: 120px;
+    border-radius: 50px;
+}
+
+.About-Us h2{
+    padding-bottom: 20px;
+}
+
+.About-Us-Text{
+    padding-top: 20px;
+    text-align: left;
+}
+
+.footer{
+    color: white;
+    height: 250px;
+    text-align: center;
+    background: rgba(5, 100, 250, 300);
+}
+
+.moveDown{
+    top: 50px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.Address{
+    margin-top: -5px;
+}
